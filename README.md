@@ -22,9 +22,13 @@ Welcome to the **Yoruba Language Learning Quiz**! This command line application 
   ### How to Run the App
   After cloning the repository:
   1. Navigate to the project directory:
-     `cd yoruba-language-quiz`
-  2. Run the application:
-     `python3 yoruba_language_learning_quiz.py`
+     ```bash
+     cd yoruba-language-quiz
+     ```
+  3. Run the application:
+     ```bash
+     python3 yoruba_language_learning_quiz.py
+     ```
      (If you are using Windows, the command may be `python yoruba_language_learning_quiz.py`
 
   ## Usage:
