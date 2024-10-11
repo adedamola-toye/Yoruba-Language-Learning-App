@@ -13,10 +13,11 @@ Welcome to the **Yoruba Language Learning Quiz**! This command line application 
 
   ### Clone the repository
   First, clone the repository to your local machine:
-  `git clone https://github.com/adedamola-toye/yoruba-language-quiz.git
-   cd yoruba-language-quiz
+  ```bash
+git clone https://github.com/adedamola-toye/yoruba-language-quiz.git
+cd yoruba-language-quiz
+```
 
-`
   ### How to Run the App
   After cloning the repository:
   1. Navigate to the project directory:
